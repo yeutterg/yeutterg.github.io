@@ -1,6 +1,6 @@
 # A (growing) list of tools I use
 
-Updated 2017-12-29
+Updated 2017-12-30
 
 ## Table of Contents
 * [Computer](#Computer)
@@ -13,6 +13,9 @@ Updated 2017-12-29
 * [Kitchen](#Kitchen)
 * [Pen & Paper](#Pen_&_Paper)
 * [News & Magazine Subscriptions](#News_&_Magazine_Subscriptions)
+* [Clothing](#Clothing)
+* [Fitness & Therapy](#Fitness_&_Therapy)
+* [Hygiene](#Hygiene)
 
 ## Computer
 
@@ -32,6 +35,7 @@ Updated 2017-12-29
 
 ### Other Peripherals
 * Router: TP-Link Archer C9
+* WiFi Extender: TP-Link AC1250
 * NAS: Synology DiskStation DS216j
 * Printer: Brother HL-L2300D
 
@@ -46,10 +50,13 @@ Updated 2017-12-29
 * Primary Camera: Fujifilm X100
 * DSLR: Nikon D7000
 * DSLR Lenses:
-⋅⋅* Nikkor 35mm f1.8
-⋅⋅* Nikkor 14-140mm f1.8
+    * Nikkor 35mm f1.8
+    * Nikkor 14-140mm f1.8
 * Always-with-me Camera: LG Nexus 5X
 * Editing Tool: Adobe Lightroom Classic CC (migrating to Apple Photos)
+* Photo Storage and Sharing
+    * Web: Google Photos
+    * Local Backup: Synology DiskStation DS216j
 
 ## Mobile Devices
 
@@ -83,13 +90,14 @@ Updated 2017-12-29
 
 ## Home Automation
 
-* Kitchen: Google Home
+* Kitchen
+    * Google Home
 * Living Room
-⋅⋅* Google Home Mini
-⋅⋅* Amazon Echo Dot
+    * Google Home Mini
+    * Amazon Echo Dot
 * Bedroom
-⋅⋅* Google Home Mini
-⋅⋅* Amazon Echo Dot
+    * Google Home Mini
+    * Amazon Echo Dot
 
 ## Lighting
 
@@ -103,40 +111,66 @@ Updated 2017-12-29
 * Kettle: Hario Buono 1.2 L
 * Cold Brew Tea Brewer: Hario Filter-In Bottle
 * Teapots
-⋅⋅* IKEA RIKLIG 1.6 qt
-⋅⋅* IKEA RIKLIG 0.6 qt
-* Pourover Dripper: Bee House
+    * IKEA RIKLIG 1.6 qt
+    * IKEA RIKLIG 0.6 qt
+* Pourover Dripper: Bee House Black
 * Range Server: Hario Microwave Range Server
 * Grinder: Hario Skerton
+* Scale: Acaia Pearl
+* Thermometer: ThermaPen MK4 Blue
 
 ### Cookware
 * Multi-Cooker
-⋅⋅* Instant Pot LUX60
+    * Instant Pot LUX60
 * Tri-Ply Pots & Pans
-⋅⋅* Tramontina 8 inch Saute Pan
-⋅⋅* Tramontina 10 inch Saute Pan
-⋅⋅* Tramontina 2 qt Sauce Pan
-⋅⋅* Tramontina 3 qt Sauce Pan
-⋅⋅* Tramontina 5 qt Dutch Oven
+    * Tramontina 8 inch Saute Pan
+    * Tramontina 10 inch Saute Pan
+    * Tramontina 2 qt Sauce Pan
+    * Tramontina 3 qt Sauce Pan
+    * Tramontina 5 qt Dutch Oven
 * Un-Enameled Cast Iron
-⋅⋅* Lodge Combo Cooker
-⋅⋅* Lodge 10 inch Saute Pan
-⋅⋅* Lodge Griddle
+    * Lodge Combo Cooker
+    * Lodge 10 inch Saute Pan
+    * Lodge Griddle
 * Enameled Cast Iron
-⋅⋅* Lodge 6 qt Dutch Oven
+    * Lodge 6 qt Dutch Oven
 * Wok
-⋅⋅* Joyce Chen 14 inch Wok
+    * Joyce Chen 14 inch Wok
 * Baking Sheets
-⋅⋅* Nordic Ware Half Sheet
-⋅⋅* Nordic Ware Full Sheet
+    * Nordic Ware Half Sheet
+    * Nordic Ware Full Sheet
 
 ### Knives
 * Chef Knife: Tojiro DP 9 inch Gyuto
 * Paring Knife: Victorinox 3.25 inch Paring Knife
 * Oyster Knife: Victorinox 2.75 inch New Haven Style
 
+### Appliances
+* Scale: Acaia Pearl
+* Induction Burner: Duxtop 1800 W
+* Multi-Cooker: Instant Pot LUX60
+* Blender: Ninja Professional 1000 W
+* Immersion Blender: Cuisinart SmartStick
+* Immersion Circulator: Anova WiFi + Bluetooth
+* Thermometer: ThermaPen MK4 Blue
+* Timer, Measurement Conversion, & Entertainment: Google Home
+
 ### Storage
 * Pyrex Storage System
+
+### Other Tools
+* Cutting Boards 
+    * IKEA Wooden
+    * IKEA Plastic
+* Utensils: IKEA DRAGON Series
+* Spatulas
+    * Winco Fish Spatula
+    * Various Wooden
+    * Various Silicone
+* Liquid Measuring Cups: Pyrex
+* Dry Measurement
+    * IKEA Measuring Spoons
+    * IKEA Measuring Cups
 
 ## Pen & Paper
 
@@ -157,3 +191,28 @@ Updated 2017-12-29
 ### Frequent News Sources
 * Hacker News
 * The Verge
+
+## Clothing
+
+See the page [What I Wear](./what-i-wear.md)
+
+## Fitness & Therapy
+
+* Pull-Up Bar: Perfect Fitness Multi-Gym
+* Yoga Mats
+    * Five Below Yoga Mat, Green
+    * Imprint CumulusPRO
+* Therapy
+    * Stretch Aids
+        * Lacrosse Ball
+        * Foam Roller
+    * Bath
+        * Epsom Salt
+        * Dead Sea Salt
+    * Ultrasonic Scent Diffuser: URPower 500 ml
+
+## Hygiene
+
+* Toothbrush: Oral-B Electric Toothbrush
+* Soap: Dr. Bronner's Tea Tree Soap
+* Deodorant: Crystal Stick
