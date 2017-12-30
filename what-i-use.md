@@ -4,15 +4,15 @@ Updated 2017-12-29
 
 ## Table of Contents
 * [Computer](#Computer)
-* [Portable Audio](#Portable Audio)
+* [Portable Audio](#Portable_Audio)
 * [Photography](#Photography)
-* [Mobile Devices](#Mobile Devices)
+* [Mobile Devices](#Mobile_Devices)
 * [Software](#Software)
-* [Home Automation](#Home Automation)
+* [Home Automation](#Home_Automation)
 * [Lighting](#Lighting)
 * [Kitchen](#Kitchen)
-* [Pen & Paper](#Pen & Paper)
-* [News & Magazine Subscriptions](#News & Magazine Subscriptions)
+* [Pen & Paper](#Pen_&_Paper)
+* [News & Magazine Subscriptions](#News_&_Magazine_Subscriptions)
 
 ## Computer
 
