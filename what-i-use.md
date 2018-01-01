@@ -182,15 +182,15 @@ Updated 2017-12-30
 ## <a name="news"></a> News & Magazine Subscriptions
 
 ### Digital Subscriptions
-* Stratechery
+* [Stratechery](https://stratechery.com/) ([Subscribe](https://stratechery.com/membership/))
 
 ### Print Subscriptions
-* Monocle
-* Dwell
+* [Monocle](https://monocle.com/) ([Subscribe](https://monocle.com/subscribe/))
+* [Dwell](https://www.dwell.com/) ([Subscribe](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=DWL&cds_page_id=217512))
 
 ### Frequent News Sources
-* Hacker News
-* The Verge
+* [Hacker News](https://news.ycombinator.com/)
+* [The Verge](https://www.theverge.com/)
 
 ## <a name="clothing"></a> Clothing
 
