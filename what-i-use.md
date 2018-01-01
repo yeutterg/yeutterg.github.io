@@ -3,21 +3,21 @@
 Updated 2017-12-30
 
 ## Table of Contents
-* [Computer](#Computer)
-* [Portable Audio](#Portable_Audio)
-* [Photography](#Photography)
-* [Mobile Devices](#Mobile_Devices)
-* [Software](#Software)
-* [Home Automation](#Home_Automation)
-* [Lighting](#Lighting)
-* [Kitchen](#Kitchen)
-* [Pen & Paper](#Pen_&_Paper)
-* [News & Magazine Subscriptions](#News_&_Magazine_Subscriptions)
-* [Clothing](#Clothing)
-* [Fitness & Therapy](#Fitness_&_Therapy)
-* [Hygiene](#Hygiene)
+* [Computer](#computer)
+* [Portable Audio](#portable_audio)
+* [Photography](#photography)
+* [Mobile Devices](#mobile_devices)
+* [Software](#software)
+* [Home Automation](#home_automation)
+* [Lighting](#lighting)
+* [Kitchen](#kitchen)
+* [Pen & Paper](#pen_paper)
+* [News & Magazine Subscriptions](#news)
+* [Clothing](#clothing)
+* [Fitness & Therapy](#fitness)
+* [Hygiene](#hygiene)
 
-## Computer
+## <a name="computer"></a> Computer
 
 * Laptop: Macbook Pro 13", Early 2015, 8 GB, 128 GB
 
@@ -39,13 +39,13 @@ Updated 2017-12-30
 * NAS: Synology DiskStation DS216j
 * Printer: Brother HL-L2300D
 
-## Portable Audio
+## <a name="portable_audio"></a> Portable Audio
 
 * Primary Headphones: Sony WH-1000XM2
 * Secondary Headphones: Koss PortaPro
 * In-Ear Monitors: Zero Audio Carbo Tenore
 
-## Photography
+## <a name="photography"></a> Photography
 
 * Primary Camera: Fujifilm X100
 * DSLR: Nikon D7000
@@ -58,14 +58,14 @@ Updated 2017-12-30
     * Web: Google Photos
     * Local Backup: Synology DiskStation DS216j
 
-## Mobile Devices
+## <a name="mobile_devices"></a> Mobile Devices
 
 * Smartphone: LG Nexus 5X
 * Tablet: Apple iPad Air 2
 * Carrier: Google Project Fi
 * Portable Charger: Anker PowerCore Fusion 5000
 
-## Software
+## <a name="software"></a> Software
 
 ### Browsing & Productivity
 * Browser: Google Chrome
@@ -88,7 +88,7 @@ Updated 2017-12-30
 * Photography: Adobe Lightroom Classic CC (migrating to Apple Photos)
 * General Editing: Adobe Photoshop (currently evaluating alternatives)
 
-## Home Automation
+## <a name="home_automation"></a> Home Automation
 
 * Kitchen
     * Google Home
@@ -99,13 +99,13 @@ Updated 2017-12-30
     * Google Home Mini
     * Amazon Echo Dot
 
-## Lighting
+## <a name="lighting"></a> Lighting
 
 * Philips Hue Full-Color Bulbs
 * Philips Hue Remote Control
 * Philips SceneSwitch
 
-## Kitchen
+## <a name="kitchen"></a> Kitchen
 
 ### Tea & Coffee
 * Kettle: Hario Buono 1.2 L
@@ -172,14 +172,14 @@ Updated 2017-12-30
     * IKEA Measuring Spoons
     * IKEA Measuring Cups
 
-## Pen & Paper
+## <a name="pen_paper"></a> Pen & Paper
 
 * Primary Pen: Pilot Precise V5
 * Air Travel Pen: Uni-Ball Vision Elite
 * Notebook: Leuchtturm1917 Medium Squared
 * Organization System: Bullet Journal (modified)
 
-## News & Magazine Subscriptions
+## <a name="news"></a> News & Magazine Subscriptions
 
 ### Digital Subscriptions
 * Stratechery
@@ -192,11 +192,11 @@ Updated 2017-12-30
 * Hacker News
 * The Verge
 
-## Clothing
+## <a name="clothing"></a> Clothing
 
 See the page [What I Wear](./what-i-wear.md)
 
-## Fitness & Therapy
+## <a name="fitness"></a> Fitness & Therapy
 
 * Pull-Up Bar: Perfect Fitness Multi-Gym
 * Yoga Mats
@@ -211,7 +211,7 @@ See the page [What I Wear](./what-i-wear.md)
         * Dead Sea Salt
     * Ultrasonic Scent Diffuser: URPower 500 ml
 
-## Hygiene
+## <a name="hygiene"></a> Hygiene
 
 * Toothbrush: Oral-B Electric Toothbrush
 * Soap: Dr. Bronner's Tea Tree Soap
