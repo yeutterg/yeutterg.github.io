@@ -74,10 +74,10 @@ Updated 2017-12-30
 * Email: Inbox by Google
 
 ### Entertainment & Reading
-* Music: Spotify Premium
-* Books: Audible
-* Articles: Pocket
-* Podcasts: Pocket Casts
+* Music: [Spotify Premium](https://www.spotify.com/)
+* Books: [Audible](https://www.audible.com/)
+* Articles: [Pocket](https://getpocket.com/)
+* Podcasts: [Pocket Casts](https://www.shiftyjelly.com/pocketcasts/)
 
 ### Development
 * General Code Editing: Microsoft Visual Studio Code
@@ -182,11 +182,11 @@ Updated 2017-12-30
 ## <a name="news"></a> News & Magazine Subscriptions
 
 ### Digital Subscriptions
-* [Stratechery](https://stratechery.com/) ([Subscribe](https://stratechery.com/membership/))
+* [Stratechery](https://stratechery.com/) 
 
 ### Print Subscriptions
-* [Monocle](https://monocle.com/) ([Subscribe](https://monocle.com/subscribe/))
-* [Dwell](https://www.dwell.com/) ([Subscribe](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=DWL&cds_page_id=217512))
+* [Monocle](https://monocle.com/) 
+* [Dwell](https://www.dwell.com/) 
 
 ### Frequent News Sources
 * [Hacker News](https://news.ycombinator.com/)
