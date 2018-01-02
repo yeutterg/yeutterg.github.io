@@ -4,7 +4,7 @@ Updated 2018-01-01
 
 ## TM-30 Now Panel
 
-*September 2017*
+**September 2017**
 
 I appeared on a National Lighting Bureau panel with three lighting industry luminaries, Randy Burkett, Mark Lien, and Randy Reid, to discuss a new lighting color metric. 
 
