@@ -41,7 +41,7 @@ These projects include:
 * [The Matrix Raining Code Effect](https://github.com/yeutterg/fun-with-processing/tree/master/Matrix)
 * [Map Visualization of Meteorite Strikes](https://github.com/yeutterg/fun-with-processing/tree/master/Meteors)
 
-## <a name="cars"></a> Voice Computing
+## <a name="voice"></a> Voice Computing
 
 Alexa, Siri, and the Google Assistant are all competing to open up a relatively unexplored computer interface—the voice. Voice interfaces allow us to transcend the smartphone and computer in various aspects of our lives. The project listed below was mostly an exercise to get familiar with the Alexa Skills platform, but you may find it instructive.
 
@@ -60,4 +60,4 @@ Various problem-solving utilities I've written.
 
 A simple utility to update a public IP address on Google Sheets, written in Python. This is useful for accessing port forwarded devices on a network with a dynamic IP address.
 
-[Project page](https://github.com/yeutterg/public-ip-utility)
+* [Project page](https://github.com/yeutterg/public-ip-utility)
