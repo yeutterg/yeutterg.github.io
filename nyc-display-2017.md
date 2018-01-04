@@ -22,7 +22,7 @@ I worked for the [Experience Design Studio](http://madebyxds.com/) to design and
 
 View the full [photo and video album](https://photos.app.goo.gl/rTm7S0vim23okgH83). 
 
-[Contact me]() for related inquires, or join my [email newsletter]() for updates.
+[Contact me](https://gregyeutter.com/contact/) for related inquires, or join my [email newsletter](https://goo.gl/forms/FVpO8AsXp6zCUUA72) for updates.
 
 ## Related Links
 * [Photo and Video Album](https://photos.app.goo.gl/rTm7S0vim23okgH83)
