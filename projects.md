@@ -1,12 +1,18 @@
 # Projects
 
-Updated 2018-01-01
+Updated 2018-01-04
 
 ## Table of Contents
+* [Highlights](#highlights)
 * [Self-Driving Cars](#cars)
 * [Visual Computing](#visual)
 * [Voice Computing](#voice)
 * [Utilities](#utils)
+
+## <a name="highlights"></a> Highlights
+
+* [New York City Holiday Window Display](#nyc_display)
+* [Animated Holiday Light Show](#light_show)
 
 ## <a name="cars"></a> Self-Driving Cars
 
@@ -27,7 +33,15 @@ As technology advances, art is never more than a step behind. Some may say art p
 
 The projects below range from infographics and animations generated in [Processing](https://processing.org/) to an animated holiday light show I built for 14 years.
 
-### Animated Holiday Light Show
+### <a name="nyc_display"></a> New York City Holiday Window Display
+
+During the holiday 2017 season, I provided the lighting design and implementation for a Twitter-controlled holiday window display made entirely of chocolate. The display was for a prominent retailer at Rockefeller Center.
+
+![NYC Holiday Window Display](https://yeutter.files.wordpress.com/2018/01/img_20171201_130152.jpg "NYC Holiday Window Display")
+
+[Learn more](./nyc-display-2017) about the project.
+
+### <a name="light_show"></a> Animated Holiday Light Show
 
 From the age of six, I built a holiday light display that quickly grew out of control. It won the local contest so many times, it was disqualified. In the early 2000s, I discovered a community that was synchronizing lights to music, much like what is done at Disney theme parks. From 2005-2012, the display became a show, with 10s of thousands of lights dancing to a custom holiday soundtrack.
 

@@ -8,6 +8,7 @@ Some relevant links:
 * [Main Website](https://gregyeutter.com/)
 * [Blog](https://medium.com/@yeutterg) (hosted on Medium)
 * [Projects](./projects)
+* [NYC Holiday Window Display](./nyc-display-2017)
 * [What I Use](./what-i-use)
 * [What I Wear](./what-i-wear)
 * [Media Appearances](./media-appearances)
