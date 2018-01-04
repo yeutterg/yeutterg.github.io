@@ -35,7 +35,7 @@ The projects below range from infographics and animations generated in [Processi
 
 ### <a name="nyc_display"></a> New York City Holiday Window Display
 
-During the holiday 2017 season, I provided the lighting design and implementation for a Twitter-controlled holiday window display made entirely of chocolate. The display was for a prominent retailer at Rockefeller Center.
+During the holiday 2017 season, I provided the lighting design and implementation for a Twitter-controlled holiday window display made entirely of chocolate. The experience was for a prominent retailer at Rockefeller Center.
 
 ![NYC Holiday Window Display](https://yeutter.files.wordpress.com/2018/01/img_20171201_130152.jpg "NYC Holiday Window Display")
 
