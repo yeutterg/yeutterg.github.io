@@ -4,7 +4,12 @@ I provided the lighting design and implementation for a Twitter-controlled holid
 
 A full [photo and video album](https://photos.app.goo.gl/rTm7S0vim23okgH83) is available. 
 
-## Overview
+## Table of Contents
+* [Overview](#overview)
+* [Technical Details](#technical)
+* [Relevant Links](#links)
+
+## <a name="overview"></a> Overview
 
 I've always had a [strong interest](https://gregyeutter.com/christmas/) in entertainment lighting. In late 2017, an opportunity presented itself to light a window display in Rockefeller Center, right around the corner from the annual holiday tree and ice skating rink.
 
@@ -24,9 +29,14 @@ View the full [photo and video album](https://photos.app.goo.gl/rTm7S0vim23okgH8
 
 [Contact me](https://gregyeutter.com/contact/) for related inquires, or join my [email newsletter](https://goo.gl/forms/FVpO8AsXp6zCUUA72) for updates.
 
-## Related Links
+## <a name="technical"></a> Technical Details
+
+See [this page](./nyc-display-2017-technical) for a detailed overview of the hardware and software implementation.
+
+## <a name="links"></a> Related Links
 * [Photo and Video Album](https://photos.app.goo.gl/rTm7S0vim23okgH83)
 * [Twitter Profile](https://twitter.com/GodivaTree?lang=en)
+* [Technical Details](./nyc-display-2017-technical)
 * Press:
     * [Adweek](http://www.adweek.com/brand-marketing/behind-the-scenes-with-godivas-solid-chocolate-christmas-tree/)
     * [TimeOut New York](https://www.timeout.com/new-york-kids/blog/a-massive-7-5-ft-godiva-chocolate-tree-is-coming-to-rockefeller-center-112717)
