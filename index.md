@@ -1,5 +1,3 @@
-# Greg Yeutter
-
 This is the [GitHub Pages](https://pages.github.com/) version of my website, which will eventually supplant the site hosted on WordPress. Things are under construction here, but please peek around!
 
 My main website is currently located at [gregyeutter.com](https://gregyeutter.com/).
