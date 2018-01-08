@@ -35,6 +35,7 @@ See [this page](./nyc-display-2017-technical) for a detailed overview of the har
 
 ## <a name="links"></a> Related Links
 * [Photo and Video Album](https://photos.app.goo.gl/rTm7S0vim23okgH83)
+* [Videos on YouTube](https://www.youtube.com/playlist?list=PLboszRf3aO5ZKxQqCFaKeYL9EPoDRU5iN)
 * [Twitter Profile](https://twitter.com/GodivaTree?lang=en)
 * [Technical Details](./nyc-display-2017-technical)
 * Press:
