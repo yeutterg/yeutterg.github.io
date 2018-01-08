@@ -1,15 +1,15 @@
 # What I Wear
 
-Updated 2017-12-30
+Updated 2018-01-07
 
 ## Base Wardrobe
 
-* T-Shirt: Uniqlo Supima Cotton V-Neck, Black, XS
+* T-Shirt: [Uniqlo Supima Cotton V-Neck, Black, XS](https://www.uniqlo.com/us/en/men-supima-cotton-v-neck-short-sleeve-t-shirt-180704.html?dwvar_180704_color=COL69&cgid=#q=v%2Bneck%2Bsupima&lang=default&start=3)
 * Jeans: Uniqlo Slim Straight, 30 inch Waist, Hemmed Length
-* Sneakers: Onitsuka Tiger Mexico 66, Black/White, Men's 8
+* Sneakers: [Onitsuka Tiger Mexico 66, Black/White, Men's 8](http://www.onitsukatiger.com/us/en-us/mexico-66/p/0010228136.9001)
 * Socks: Uniqlo Color Socks, Heathered Gray
-* Belt: Mission Belts Gray on Black
-* Jacket: Baracuta G9, Black, 36
+* Belt: Mission Belt, Iron Buckle, Black Canvas
+* Jacket: [Baracuta G9, Black, 36](http://www.baracuta.com/on/demandware.store/Sites-WPBAWO-US-Site/default/Product-Show?pid=BRCPS0001BCNY1100&start=2&cgid=br_G9)
 * Sweatshirt: Uniqlo Crew Neck, Black, XS
 * Sunglasses: American Optical Original Pilot, Silver, 55 mm
 
@@ -29,6 +29,6 @@ Updated 2017-12-30
 
 ## Dress Modifications
 
-* Blazer: Bonobos Unstructured Blazer, Navy, 36 Short
-* Pants: J. Crew Chinos, Gray, 31x30
+* Blazer: [Bonobos The Foundation Unstructured Blazer, Navy, Slim, 36S](https://bonobos.com/products/foundation-italian-wool-blazer)
+* Pants: J. Crew 484 Chinos, Gray, 31x30
 * Dress Shirts: Various, Including Dolce, Proper Cloth, and Uniqlo
