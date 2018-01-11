@@ -10,4 +10,5 @@ Some relevant links:
 * [What I Use](./what-i-use)
 * [What I Wear](./what-i-wear)
 * [Media Appearances](./media-appearances)
+* [Consulting Services](./consulting-services)
 * [Contact](https://gregyeutter.com/contact/)
