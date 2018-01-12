@@ -21,3 +21,4 @@ Resources:
 * [LinkedIn Profile](https://www.linkedin.com/in/yeutter/)
 * [Projects](https://yeutterg.github.io/projects)
 * [GitHub Profile](https://github.com/yeutterg)
+* [Media Appearances](./media-appearances)
