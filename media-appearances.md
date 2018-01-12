@@ -5,6 +5,7 @@ Updated 2018-01-11
 ## TM-30 Now Panel
 
 **September 2017**
+**|**
 **Washington, D.C.**
 
 I appeared on a [National Lighting Bureau](https://nlb.org/) panel with three lighting industry luminaries, [Randy Burkett](https://rbldi.com/), [Mark Lien](https://www.ies.org/presenter/mark-lien/), and [Randy Reid](http://edisonreport.com/), to discuss a new lighting color metric. 
@@ -15,6 +16,7 @@ I appeared on a [National Lighting Bureau](https://nlb.org/) panel with three li
 ## Lighting for Health and Wellbeing Conference
 
 **July 2017**
+**|**
 **Newport Beach, California**
 
 I spoke with Maury Wright, Editor in Chief of [LEDs Magazine](http://www.ledsmagazine.com/index.html), about human-centric lighting technologies and market adoption.
