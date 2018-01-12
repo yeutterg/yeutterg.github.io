@@ -4,7 +4,9 @@ Updated 2018-01-11
 
 ## TM-30 Now Panel
 
-**September 2017 | Washington, D.C.**
+**September 2017**
+
+**Washington, D.C.**
 
 I appeared on a [National Lighting Bureau](https://nlb.org/) panel with three lighting industry luminaries, [Randy Burkett](https://rbldi.com/), [Mark Lien](https://www.ies.org/presenter/mark-lien/), and [Randy Reid](http://edisonreport.com/), to discuss a new lighting color metric. 
 
@@ -15,6 +17,8 @@ I appeared on a [National Lighting Bureau](https://nlb.org/) panel with three li
 
 I spoke with Maury Wright, Editor in Chief of [LEDs Magazine](http://www.ledsmagazine.com/index.html), about human-centric lighting technologies and market adoption.
 
-**July 2017 | Newport Beach, California**
+**July 2017**
+
+**Newport Beach, California**
 
 * [Video](http://videos.ledsmagazine.com/detail/video/5561222535001/luxtech-foretells-the-future-of-ssl-is-human-centric-lighting) (2 minutes)
