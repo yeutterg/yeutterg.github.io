@@ -31,7 +31,7 @@ A computer vision project to identify and mark lane lines in a video feed. This 
 
 ![Path Planning Image](https://github.com/yeutterg/CarND-Path-Planning-Project-P11/raw/master/Driving_Image.png)
 
-A simulated virtual highway. My car was programmed to accelerate comfortably, obey the speed limit, change lanes to pass, and avoid all collisions.
+A simulated virtual highway with moderate traffic. My car was programmed to accelerate comfortably, obey the speed limit, change lanes to pass, and avoid all collisions.
 
 * [GitHub](https://github.com/yeutterg/CarND-Path-Planning-Project-P11)
 
