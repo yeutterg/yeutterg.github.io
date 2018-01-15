@@ -1,6 +1,6 @@
 # Projects
 
-Updated 2018-01-04
+Updated 2018-01-14
 
 ## Table of Contents
 * [Highlights](#highlights)
@@ -26,6 +26,14 @@ A computer vision project to identify and mark lane lines in a video feed. This 
 
 * [Article](https://gregyeutter.com/2017/02/21/nano_p1/)
 * [GitHub](https://github.com/yeutterg/CarND-LaneLines-P1)
+
+### Path Planning
+
+![Path Planning Image](https://github.com/yeutterg/CarND-Path-Planning-Project-P11/raw/master/Driving_Image.png)
+
+A simulated virtual highway. My car was programmed to accelerate comfortably, obey the speed limit, change lanes to pass, and avoid all collisions.
+
+* [GitHub](https://github.com/yeutterg/CarND-Path-Planning-Project-P11)
 
 ## <a name="visual"></a> Visual Computing
 
