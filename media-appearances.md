@@ -6,7 +6,7 @@ Updated 2018-02-07
 
 **February 2018**
 
-On a podcast targeted at the lighting industry, I discussed the health effects of artificial lighting. 
+On the [Get a Grip on Lighting Podcast](http://getagriponlighting.com/), I discussed the health effects of artificial lighting. 
 
 * [Podcast](http://getagriponlighting.com/15-lighting-health-effects-greg-yeutter) (42 minutes)
 
