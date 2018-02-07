@@ -1,6 +1,14 @@
 # Media Appearances
 
-Updated 2018-01-11
+Updated 2018-02-07
+
+## Get a Grip on Lighting Podcast
+
+**February 2018**
+
+On a podcast targeted at the lighting industry, I discussed the health effects of artificial lighting. 
+
+* [Podcast](http://getagriponlighting.com/15-lighting-health-effects-greg-yeutter) (42 minutes)
 
 ## TM-30 Now Panel
 
