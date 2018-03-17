@@ -1,6 +1,6 @@
-# A (growing) list of tools I use
+# A list of tools I use
 
-Updated 2017-12-30
+Updated 2018-03-16
 
 ## Table of Contents
 * [Computer](#computer)
@@ -8,6 +8,7 @@ Updated 2017-12-30
 * [Photography](#photography)
 * [Mobile Devices](#mobile_devices)
 * [Software](#software)
+* [Home](#home)
 * [Home Automation](#home_automation)
 * [Lighting](#lighting)
 * [Kitchen](#kitchen)
@@ -24,46 +25,47 @@ Updated 2017-12-30
 ### Desktop items
 * Desk: IKEA Bekant Sit/Stand
 * Standing Desk Mat: Imprint CumulusPRO
-* Primary Monitor: Dell P2715Q
-* Secondary Monitor: HP 27er
-* Loudspeakers: Mackie CR3
-* Primary Headphones: Sony MDR-7506
-* Secondary Headphones: Koss PortaPro
-* Keyboard: Apple Magic Keyboard
-* Trackpad: Apple Magic Trackpad
-* Mouse: Logitech MX Master
+* Primary Monitor: [Dell P2715Q](http://amzn.to/2pjbEcG)
+* Secondary Monitor: [HP 27er](http://amzn.to/2pjmleB)
+* Loudspeakers: [Mackie CR3](http://amzn.to/2HCW5Dm)
+* Primary Headphones: [Sony MDR-7506](http://amzn.to/2piwNDW)
+* Secondary Headphones: [Koss PortaPro](http://amzn.to/2pj6lKx)
+* Keyboard: [Apple Magic Keyboard](http://amzn.to/2FWqgsj)
+* Trackpad: [Apple Magic Trackpad 2](http://amzn.to/2tUc1zh)
+* Mouse: Logitech MX Master (Recommend newer version: [MX Master 2S](http://amzn.to/2G1DnZe))
 
 ### Other Peripherals
-* Router: TP-Link Archer C9
-* WiFi Extender: TP-Link AC1250
-* NAS: Synology DiskStation DS216j
-* Printer: Brother HL-L2300D
+* Router: [TP-Link Archer C9 AC1900](http://amzn.to/2pjQGL3)
+* WiFi Range Extender: [TP-Link AC750](http://amzn.to/2pfCBhG)
+* NAS: Synology DiskStation DS216j (Recommend newer version: [DS218j](http://amzn.to/2pj3bq5))
+* Printer: [Brother HL-L2300D](http://amzn.to/2pkBs7s)
 
 ## <a name="portable_audio"></a> Portable Audio
 
-* Primary Headphones: Sony WH-1000XM2
-* Secondary Headphones: Koss PortaPro
-* In-Ear Monitors: Zero Audio Carbo Tenore
+* Primary Noise-Cancelling Headphones: [Sony WH-1000XM2](http://amzn.to/2pjPFmd)
+* Secondary Headphones: [Koss PortaPro](http://amzn.to/2pj6lKx)
+* In-Ear Monitors: [Zero Audio Carbo Tenore](http://amzn.to/2FGr456)
+* Earplugs: [Etymotic Research ER20XS](http://amzn.to/2HIpAUt)
 
 ## <a name="photography"></a> Photography
 
-* Primary Camera: Fujifilm X100
+* Primary Camera: Google Pixel 2 XL
 * DSLR: Nikon D7000
 * DSLR Lenses:
     * Nikkor 35mm f1.8
     * Nikkor 14-140mm f1.8
-* Always-with-me Camera: LG Nexus 5X
-* Editing Tool: Adobe Lightroom Classic CC (migrating to Apple Photos)
+* Editing Tool: Apple Photos
 * Photo Storage and Sharing
     * Web: Google Photos
-    * Local Backup: Synology DiskStation DS216j
+    * Local Backup: Synology DiskStation DS216j (Recommend newer version: [DS218j](http://amzn.to/2pj3bq5))
 
 ## <a name="mobile_devices"></a> Mobile Devices
 
-* Smartphone: LG Nexus 5X
-* Tablet: Apple iPad Air 2
-* Carrier: Google Project Fi
-* Portable Charger: Anker PowerCore Fusion 5000
+* Smartphone: [Google Pixel 2 XL 64GB](http://amzn.to/2pjj6nC)
+* Secondary Smartphone: Apple iPhone 7 Plus 32GB
+* Tablet: Apple iPad Air 2 LTE 16GB
+* Carrier: [Google Project Fi](https://fi.google.com/)
+* Portable Charger: [Anker PowerCore Fusion 5000](http://amzn.to/2FHC0j0)
 
 ## <a name="software"></a> Software
 
@@ -84,20 +86,29 @@ Updated 2017-12-30
 * Terminal: MacOS Terminal
 * Java Code Editing: JetBrains IntelliJ IDEA Community Edition
 
-### Image Editing
-* Photography: Adobe Lightroom Classic CC (migrating to Apple Photos)
-* General Editing: Adobe Photoshop (currently evaluating alternatives)
+### Video & Image Editing
+* Photography: Apple Photos
+* General Photo Editing: Adobe Photoshop
+* Video: [Apple Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+
+## <a name="home"></a> Home
+
+* Cleaning
+    * Mop/Broom: [Muji Cleaning System](http://www.muji.us/store/housekeeping/cleaning-system.html)
+    * Robotic Vacuum: [ECOVACS DEEBOT N79](http://amzn.to/2G2UMAQ)
+    * Handheld Vacuum: [Black and Decker Pivot](http://amzn.to/2pj3Tnb)
 
 ## <a name="home_automation"></a> Home Automation
 
 * Kitchen
     * Google Home
 * Living Room
+    * Nest Thermostat, 2nd Generation (Recommend newer version: [3rd Generation](http://amzn.to/2pjkzu8))
     * Google Home Mini
-    * Amazon Echo Dot
+    * [Amazon Echo Dot](http://amzn.to/2HFjap1)
 * Bedroom
     * Google Home Mini
-    * Amazon Echo Dot
+    * [Amazon Echo Dot](http://amzn.to/2HFjap1)
 
 ## <a name="lighting"></a> Lighting
 
@@ -108,15 +119,15 @@ Updated 2017-12-30
 ## <a name="kitchen"></a> Kitchen
 
 ### Tea & Coffee
-* Kettle: Hario Buono 1.2 L
-* Cold Brew Tea Brewer: Hario Filter-In Bottle
+* Kettle: [Hario Buono 1.2 L](http://amzn.to/2FZhBFf)
+* Cold Brew Tea Brewer: [Hario Filter-In Bottle](http://amzn.to/2FMKPE5)
 * Teapots
     * IKEA RIKLIG 1.6 qt
     * IKEA RIKLIG 0.6 qt
-* Pourover Dripper: Bee House Black
-* Range Server: Hario Microwave Range Server
-* Grinder: Hario Skerton
-* Scale: Acaia Pearl
+* Pourover Dripper: [Bee House Large Black](http://amzn.to/2FGGeqT)
+* Range Server: [Hario Range Server, Size O2](http://amzn.to/2FENljP)
+* Grinder: [Hario Skerton](http://amzn.to/2HHqvnY)
+* Scale: [Acaia Pearl](http://amzn.to/2GBhyNW)
 * Thermometer: ThermaPen MK4 Blue
 
 ### Cookware
@@ -141,15 +152,15 @@ Updated 2017-12-30
     * Nordic Ware Full Sheet
 
 ### Knives
-* Chef Knife: Tojiro DP 9 inch Gyuto
-* Paring Knife: Victorinox 3.25 inch Paring Knife
-* Oyster Knife: Victorinox 2.75 inch New Haven Style
+* Chef Knife: [Tojiro DP 9 inch Gyuto](http://amzn.to/2DA7eCA)
+* Paring Knife: [Victorinox 3.25 inch Straight Paring Knife](http://amzn.to/2G0tLOh)
+* Oyster Knife: [Victorinox 2.75 inch New Haven Style](http://amzn.to/2pldDgA)
 
 ### Appliances
-* Scale: Acaia Pearl
-* Induction Burner: Duxtop 1800 W
+* Scale: [Acaia Pearl](http://amzn.to/2GBhyNW)
+* Induction Burner: [Duxtop 1800 W](http://amzn.to/2DA8HZx)
 * Multi-Cooker: Instant Pot LUX60
-* Blender: Ninja Professional 1000 W
+* Blender: [Ninja Professional 1000 W](http://amzn.to/2DzcxlN)
 * Immersion Blender: Cuisinart SmartStick
 * Immersion Circulator: Anova WiFi + Bluetooth
 * Thermometer: ThermaPen MK4 Blue
@@ -174,10 +185,10 @@ Updated 2017-12-30
 
 ## <a name="pen_paper"></a> Pen & Paper
 
-* Primary Pen: Pilot Precise V5
-* Air Travel Pen: Uni-Ball Vision Elite
-* Notebook: Leuchtturm1917 Medium Squared
-* Organization System: Bullet Journal (modified)
+* Primary Pen: [Pilot Precise V5](http://amzn.to/2FIWM1y)
+* Air Travel Pen: [Uni-Ball Vision Elite](http://amzn.to/2pi8WU4)
+* Notebook: [Leuchtturm1917 Medium Squared](http://amzn.to/2piq9xr)
+* Organization System: [Bullet Journal](http://bulletjournal.com/) (modified)
 
 ## <a name="news"></a> News & Magazine Subscriptions
 
