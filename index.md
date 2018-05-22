@@ -1,13 +1,15 @@
-My main website is currently located at [gregyeutter.com](https://gregyeutter.com/).
+Hey, Greg here.
 
-Some relevant links:
-* [Main Website](https://gregyeutter.com/)
-* [Blog](https://medium.com/@yeutterg)
-* [Projects](./projects)
-* [NYC Holiday Window Display](./nyc-display-2017)
-* [What I Use](./what-i-use)
-* [What I Wear](./what-i-wear)
-* [Media Appearances](./media-appearances)
-* [Consulting Services](./consulting-services)
-* [About & Privacy Policy](./about)
-* [Contact](https://gregyeutter.com/contact/)
+I'm committed to making light [simple](https://www.simplebulb.com/) and [healthy](https://greg.lighting/).
+
+I make [videos](https://www.youtube.com/c/gregyeutter), take [photos](https://www.instagram.com/gregyeutter/), and [write](https://medium.com/@yeutterg) a lot.
+
+My curiosity leads me to dabble in a bunch of [projects](./projects) and write [code](https://github.com/yeutterg), all while drinking WAY too much tea.
+
+Sometimes I get a moment in the [spotlight](./media-appearances).
+
+I'm editing what I own. That includes my [gear](./what-i-use) and [wardrode](./what-i-wear).
+
+I also publish a newsletter about once per week. Sign up [here](https://goo.gl/EpTQAA).
+
+Let's [connect](./connect).
