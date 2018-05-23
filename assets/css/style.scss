@@ -11,7 +11,8 @@ header{
 section{
     float:left;
     position:absolute;
-    top:150px
+    top:150px;
+    width:auto
 }
 
 body{
@@ -22,6 +23,7 @@ footer{
     text-align:center;
     position:absolute;
     width:auto
+    font:12px/1.5 "Helvetica Neue", Helvetica, "Noto Sans", Arial, sans-serif
 }
 
 @media print, screen and (max-width: 960px){
