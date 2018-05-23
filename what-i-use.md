@@ -1,6 +1,8 @@
 # A list of tools I use
 
-Updated 2018-03-16
+Updated 2018-05-22
+
+You can find my curated gear collections on [Kit](https://kit.com/gregyeutter).
 
 ## Table of Contents
 * [Computer](#computer)
@@ -58,6 +60,7 @@ Updated 2018-03-16
 * Photo Storage and Sharing
     * Web: Google Photos
     * Local Backup: Synology DiskStation DS216j (Recommend newer version: [DS218j](http://amzn.to/2pj3bq5))
+* Gimbal: DJI Osmo Mobile 2
 
 ## <a name="mobile_devices"></a> Mobile Devices
 
