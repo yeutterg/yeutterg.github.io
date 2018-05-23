@@ -4,15 +4,16 @@
 @import "{{ site.theme }}";
 
 header{
-    float:center
+    text-align:center
 }
 
 section{
-    float:center;
+    float:left;
+    text-align:center;
     position: absolute;
     top:150px
 }
 
 footer{
-    float:center
+    text-align:center
 }
