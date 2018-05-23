@@ -3,8 +3,16 @@
 
 @import "{{ site.theme }}";
 
+header{
+    float:center
+}
+
 section{
-    float:left;
+    float:center;
     position: absolute;
     top:150px
+}
+
+footer{
+    float:center
 }
