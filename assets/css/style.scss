@@ -22,12 +22,17 @@ footer{
 
 @media print, screen and (max-width: 960px){
     header,section,footer{
-        text-align:center;
         position:absolute;
         width:auto
+    }
+    header{
+        text-align:center;
     }
     section{
         float:left;
         top:150px
+    }
+    footer{
+        text-align:center;
     }
 }
