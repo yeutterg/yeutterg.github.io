@@ -5,5 +5,25 @@
 
 header{
     float:center;
-    position:relative;
+    position:relative
+}
+
+footer{
+    float:center;
+    position:relative
+}
+
+@media print, screen and (max-width: 960px){
+    header,section,footer{
+        position:relative
+    }
+    header ul{
+        position:relative
+    }
+}
+
+@media print, screen and (max-width: 720px){
+    header ul,header p.view{
+        position:relative
+    }
 }
