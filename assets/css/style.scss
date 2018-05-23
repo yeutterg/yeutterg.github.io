@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 section{
-    float:left
+    float:left;
+    position:fixed
 }
