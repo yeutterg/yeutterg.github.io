@@ -10,20 +10,6 @@ header{
 
 footer{
     float:center;
-    position:relative
+    position:static
 }
 
-@media print, screen and (max-width: 960px){
-    header,section,footer{
-        position:static
-    }
-    header ul{
-        position:static
-    }
-}
-
-@media print, screen and (max-width: 720px){
-    header ul,header p.view{
-        position:static
-    }
-}
