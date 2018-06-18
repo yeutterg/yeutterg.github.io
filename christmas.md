@@ -14,7 +14,7 @@ I was contracted to build a lighting installation for a prominent retailer in Ne
 
 Working with leading chocolate experts, I helped build the world's first all-chocolate Twitter-controlled color-changing holiday window display. I was responsible for all lighting aspects of the project, which involved writing thousands of lines of software code and building custom control hardware.
 
-[Learn more](./nyc-display-2017).
+[Learn more](./nyc-display-2017)
 
 ## 2009-2012 Show: The Magic of the Polar Express
 
@@ -32,5 +32,5 @@ Watch the videos:
 
 Watch the video:
 
-[Full show](https://www.youtube.com/watch?v=flpbwOCzUMU)
+[Full show](https://www.youtube.com/watch?v=flpbwOCzUMU) (15:00)
 
